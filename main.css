@@ -1,5 +1,5 @@
 body {
-    font-family: Calibri, 'Trebuchet MS', 'Gill Sans', 'Gill Sans MT', sans-serif;
+    font-family: Calibri, 'Arial', 'Helvetica', sans-serif;
     margin: 60px auto;
     width: 70%;
 }
@@ -32,4 +32,9 @@ table {
 h1, h3, p {
     margin-block-start: 0.5em;
     margin-block-end: 0.5em;
+}
+
+span {
+    font-size: 40px;
+    font-weight: bold;
 }
