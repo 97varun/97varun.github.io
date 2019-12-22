@@ -3,6 +3,14 @@ body {
     margin: 2% 10% 2% 10%;
     width: 80%;
 }
+
+@media only screen and (max-width: 600px) {
+    body {
+        margin: 5%;
+        width: 90%;
+    }
+}
+
 a {
     text-decoration: none;
     color: #1966FF;
