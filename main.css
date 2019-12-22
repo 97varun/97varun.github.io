@@ -1,7 +1,7 @@
 body {
     font-family: Calibri, 'Arial', 'Helvetica', sans-serif;
-    margin: 2% 15% 2% 15%;
-    width: 70%;
+    margin: 2% 10% 2% 10%;
+    width: 80%;
 }
 a {
     text-decoration: none;
@@ -21,15 +21,12 @@ table.workexp td, table.workexp tr {
     padding: 0;
 }
 
-table.workexp li {
-    line-height: 0.8em;
-}
-
 .profile a, .profile ul, .profile p {
     font-size: 18px;
 }
 .profile ul {
     line-height: 150%;
+    margin: 0;
 }
 
 .profile h1, .profile h3, .profile h4, .profile p {
