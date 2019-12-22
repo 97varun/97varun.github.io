@@ -35,6 +35,7 @@ table.workexp td, table.workexp tr {
 .profile ul {
     line-height: 150%;
     margin: 0;
+    padding-left: 20px;
 }
 
 .profile h1, .profile h3, .profile h4, .profile p {
