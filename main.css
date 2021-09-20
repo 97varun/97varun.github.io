@@ -29,6 +29,10 @@ table.workexp td, table.workexp tr {
     padding: 0;
 }
 
+.nowrap {
+    white-space: nowrap;
+}
+
 .profile a, .profile ul, .profile p {
     font-size: 18px;
 }
